@@ -1,3 +1,15 @@
-* {
-    background: red;
+.akapit::before {
+    /* wymagany jest content nawet jesli jest pusty musi być '' */
+    content: 'PRZED TEKSTEM';
+    color: red;
+}
+
+.akapit::after {
+    /* wymagany jest content nawet jesli jest pusty musi być '' */
+    content: 'PO TEKSCIE';
+    color: red;
+}
+
+.akapit::first-line {
+    color:blue;
 }

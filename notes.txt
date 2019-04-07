@@ -7,3 +7,12 @@
 #normalize style.css
 
 !nie czcionki tylko fonty
+
+
+#::before i after bardzo importanto!
+
+#:focus - zazwyczaj do inputów
+
+
+nth-of-type -
+2n+3 co drugi element od 3

@@ -13,3 +13,23 @@
 .akapit::first-line {
     color:blue;
 }
+
+/* ********************* */
+.customer-list__item {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+/* When using first-child best to put those child elements into a div */
+.customer-list__item:first-child {
+    color: grey;
+    background-color: bisque;
+}
+
+.customer-list__item:nth-child(6) {
+    color:red;
+}
+
+.customer-list__item:nth-child(3n+4){
+    color: green;
+}

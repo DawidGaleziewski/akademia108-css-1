@@ -1,0 +1,9 @@
+#hierarchia:
+    #style.css zew plik
+    #w znaczniku <style>
+    #style inline w tagu
+
+#reset style css w internecie - resetowanie domyślmych styli
+#normalize style.css
+
+!nie czcionki tylko fonty

@@ -18,3 +18,9 @@ nth-of-type -
 2n+3 co drugi element od 3
 
 #selektor *= jest bardzo zasobożerna 
+
+#hierarchia selektorów
+http://cssspecificity.com/#
+
+#kalkulator:
+https://specificity.keegan.st/

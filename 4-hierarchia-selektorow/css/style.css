@@ -1,0 +1,22 @@
+
+p {
+    background-color: crimson !important;
+}
+
+/* 1000 inline styles in html */
+/* 100 */
+#text {
+    background-color: red;
+    font-size: 33px;
+}
+
+/* 10 */
+body p.text {
+    background-color: green;
+}
+
+/* 1 */
+p {
+    background-color: yellow;
+    font-size: 22px;
+}

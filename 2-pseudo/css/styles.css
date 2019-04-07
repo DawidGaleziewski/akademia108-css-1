@@ -33,3 +33,18 @@
 .customer-list__item:nth-child(3n+4){
     color: green;
 }
+
+/* ********************* */
+
+input:focus {
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: cadetblue;
+}
+
+button:active {
+    background-color: crimson;
+}

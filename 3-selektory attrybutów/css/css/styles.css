@@ -1,0 +1,32 @@
+[title]{
+    font-size: 30px;
+    color: red;
+}
+
+[title="About me"]{
+    color: blue;
+    font-style: italic;
+}
+
+[title*="olio"]{
+    color: green;
+    font-size: 14px;
+}
+
+/* ps those are case senstivie */
+
+/* na początku */
+[title^="More"]{
+    background-color: blueviolet;
+}
+
+/* na końcu */
+[title$="More"]{
+    background-color:red;
+    color: yellow;
+}
+
+li:last-child {
+    background-color: darkblue;
+}
+

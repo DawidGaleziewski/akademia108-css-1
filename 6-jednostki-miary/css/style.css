@@ -1,0 +1,46 @@
+html {
+    font-size: 10px;
+
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.size-px {
+    width: 400px;
+    height: 400px;
+    background: rgb(59, 144, 155);
+}
+
+.size-pr {
+    width: 60%;
+    height: 200px;
+    background: rgb(10, 180, 158);
+}
+
+.size-vh {
+    width: 50vh;
+    height: 200px;
+    background: rgb(181, 211, 12);
+}
+
+.size-vw {
+    height:200px;
+    width: 50vw;
+    background:  rgb(12, 86, 197);
+}
+
+.em {
+    font-size: 30px;
+}
+
+.em > p {
+    font-size: 3em;
+}
+
+.rem {
+    font-size: 3rem;
+}
